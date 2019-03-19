@@ -1,0 +1,10 @@
+C:\skb\func-brainfuck\bin\Debug\brainfuck.exe.config
+C:\skb\func-brainfuck\bin\Debug\brainfuck.exe
+C:\skb\func-brainfuck\bin\Debug\brainfuck.pdb
+C:\skb\func-brainfuck\bin\Debug\nunit.framework.dll
+C:\skb\func-brainfuck\bin\Debug\nunitlite.dll
+C:\skb\func-brainfuck\obj\Debug\func-brainfuck.csprojAssemblyReference.cache
+C:\skb\func-brainfuck\obj\Debug\func-brainfuck.csproj.CoreCompileInputs.cache
+C:\skb\func-brainfuck\obj\Debug\func-brainfuck.csproj.CopyComplete
+C:\skb\func-brainfuck\obj\Debug\brainfuck.exe
+C:\skb\func-brainfuck\obj\Debug\brainfuck.pdb
